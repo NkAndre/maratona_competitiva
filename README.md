@@ -9,3 +9,13 @@ Bem-vindo ao meu repositório dedicado à resolução de problemas de Programaç
 * 🟢 **LeetCode** - Foco em entrevistas técnicas e algoritmos gerais.
 * 🟡 **Codeforces** - Foco em maratonas e competições semanais.
 * 🔵 **Beecrowd (URI)** - Resoluções de problemas acadêmicos e maratonas regionais.
+
+---
+
+## 🛠️ Tecnologias e Linguagen
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
