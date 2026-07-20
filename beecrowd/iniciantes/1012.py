@@ -1,0 +1,13 @@
+linha1 = input().split()
+a = float(linha1[0])
+b = float(linha1[1])
+c = float(linha1[2])
+PI= 3.14159
+print(f'TRIANGULO: {(a * c) /2:.3f}')
+print(f'CIRCULO: { PI* (c ** 2):.3f}')
+print(f'TRAPEZIO: {((a + b) * c) / 2:.3f}')
+print(f'QUADRADO: {b**2:.3f}')
+print(f'RETANGULO: {a*b:.3f}')
+
+
+
